@@ -15,9 +15,13 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@commitlint/cli": "^17.0.3",
+    "@commitlint/config-conventional": "^17.0.3",
     "eslint": "8.18.0",
     "eslint-config-next": "12.2.0",
+    "eslint-config-prettier": "^8.5.0",
     "git-precommit-checks": "^3.0.7",
-    "husky": "^8.0.0"
+    "husky": "^8.0.0",
+    "lint-staged": "^13.0.3"
   }
 }
